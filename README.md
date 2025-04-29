@@ -1,8 +1,8 @@
-# **VulnHeist** ⚔️ - Automated Penetration Testing Suite
+# **VulnHeist** ⚔ - Automated Penetration Testing Suite
 
 ## 🌐 Overview
 
-**VulnHeist** is a powerful, automated tool 🔥 designed to simplify vulnerability scanning 🔍 and exploitation 💣. It combines the efficiency of **Nmap** 🌐 for scanning and the power of **Metasploit** 💻 for exploiting discovered vulnerabilities. Security professionals can enjoy a seamless, streamlined workflow 🛠️, with an easy-to-use interface designed for effective penetration testing.
+**VulnHeist** is a powerful, automated tool  designed to simplify vulnerability scanning  and exploitation . It combines the efficiency of **Nmap** for scanning and the power of **Metasploit**  for exploiting discovered vulnerabilities. Security professionals can enjoy a seamless, streamlined workflow 🛠️, with an easy-to-use interface designed for effective penetration testing.
 
 ## ✨ Key Features
 
