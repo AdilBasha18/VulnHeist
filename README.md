@@ -1,23 +1,23 @@
 # **VulnHeist** ⚔️ - Automated Penetration Testing Suite
 
-## 🌐 Overview
+##  Overview
 
-**VulnHeist** is a powerful, automated tool 🔥 designed to simplify vulnerability scanning 🔍 and exploitation 💣. It combines the efficiency of **Nmap** 🌐 for scanning and the power of **Metasploit** 💻 for exploiting discovered vulnerabilities. Security professionals can enjoy a seamless, streamlined workflow 🛠️, with an easy-to-use interface designed for effective penetration testing.
+**VulnHeist** is a powerful, automated tool designed to simplify vulnerability scanning and exploitation . It combines the efficiency of **Nmap** for scanning and the power of **Metasploit**  for exploiting discovered vulnerabilities. Security professionals can enjoy a seamless, streamlined workflow 🛠, with an easy-to-use interface designed for effective penetration testing.
 
-## ✨ Key Features
+## Key Features
 
-- **Automated Nmap Scanning** 🌍: Detailed vulnerability scans powered by Nmap scripts.
-- **Exploit Searching** 🔎: Finds applicable exploits using the **Metasploit** framework.
-- **Automated Exploitation** 💥: Automatically exploits identified vulnerabilities with Metasploit.
-- **Session Management** 💼: Opens, interacts with, and closes sessions seamlessly.
-- **Detailed Logs & Reporting** 📊: Generates comprehensive reports in **Markdown** and **CSV** formats.
-- **Interactive Console** 🎮: Rich-text console for real-time user interaction.
-
+- **Automated Nmap Scanning** : Detailed vulnerability scans powered by Nmap scripts.
+- **Exploit Searching** : Finds applicable exploits using the **Metasploit** framework.
+- **Automated Exploitation** : Automatically exploits identified vulnerabilities with Metasploit.
+- **Session Management** : Opens, interacts with, and closes sessions seamlessly.
+- **Detailed Logs & Reporting** : Generates comprehensive reports in **Markdown** and **CSV** formats.
+- **Interactive Console** : Rich-text console for real-time user interaction.
+ 
 ## 🔧 Requirements
 
-- **Python 3.x** 🐍
-- **Metasploit Framework** 💻
-- **Nmap** 🌐
+- **Python 3.x** 
+- **Metasploit Framework** 
+- **Nmap** 
 - Required Python packages:
   - `pymetasploit3`
   - `colorama`
